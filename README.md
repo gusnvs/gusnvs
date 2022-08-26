@@ -3,7 +3,7 @@ Olá! Eu sou o Gustavo Neves 👋
 - 🔭 Hoje trabalho com Front-End
 - 🌱 Estudando Python e PHP
 - 📫 Contate-me no email: gagneves@hotmail.com
-- ⚡ Apaixonado por programação, tecnologia e mercado financeiro
+- ⚡ Apaixonado por programação, tecnologia, empreendedorismo e mercado financeiro
 
 <div>
   <a href="https://github.com/gusnvs">
