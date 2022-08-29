@@ -1,9 +1,9 @@
-Olá! Eu sou o Gustavo Neves 👋
+Hello! I'm Gustavo Neves 👋
 
-- 🔭 Hoje trabalho com Front-End
-- 🌱 Estudando Python e PHP
-- 📫 Contate-me no email: gagneves@hotmail.com
-- ⚡ Apaixonado por programação, tecnologia, empreendedorismo e mercado financeiro
+- 🔭 Nowadays I'm working with Front-End.
+- 🌱 Learning Python and PHP.
+- 📫 Contact me on email: gagneves@hotmail.com
+- ⚡ Passionate about programming, technology, entrepreneurship, and financial markets.
 
 <div>
   <a href="https://github.com/gusnvs">
