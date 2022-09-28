@@ -1,7 +1,7 @@
 Hello! I'm Gustavo Neves 👋
 
 - 🔭 Nowadays I'm working with Front-End.
-- 🌱 Learning Python and PHP.
+- 🌱 Learning some frameworks.
 - 📫 Contact me on email: gagneves@hotmail.com
 - ⚡ Passionate about programming, technology, entrepreneurship, and financial markets.
 
